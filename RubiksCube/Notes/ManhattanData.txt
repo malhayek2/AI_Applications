@@ -1,0 +1,140 @@
+  // 2nd oriantaion
+    // edges["ow"] = 8;edges["gw"] = 6;edges["bw"] = 4;edges["rw"] = 2;
+    // edges["og"] = 17;edges["rg"] = 12; edges["yg"] = 23;edges["br"] = 10;edges["yr"] = 19;edges["ob"] = 15;
+    // edges["yb"] = 21;edges["yo"] = 25;
+    //index 1,37 wo, index 3,10 wg,index 5,28 wb, index 7,19 wr,
+    //index 12,41 go, index 14,21 gr, index 16,48 gy
+    //index 23,30 rb, index 25,46 ry, index 32,39 bo, index 34,50 by
+    //index 43,52 oy
+
+    //wgo (0,9,38), wbo(2,29,36), wgr(6,11,18), wbr(8,27,20), ygo(51,15,44), ybo(53,35,42),ygr(45,17,24),ybr(47,33,26)
+    // /*2nd orientation (00)*/
+    // corners["gwo"] = 900;corners["bwo"] = 700;corners["gwr"] = 300;corners["bwr"] = 100;
+    // corners["gyo"] = 2600;corners["byo"] = 2400;corners["gyr"] = 2000;corners["byr"] = 1800;
+    // /*3rd orientation (11)*/
+    // corners["ogw"] = 911;corners["obw"] = 711;corners["rgw"] = 311;corners["rbw"] = 111;
+// corners["ogy"] = 2611;corners["oby"] = 2411;corners["rgy"] = 2011;corners["rby"] = 1811;
+// init cube bbrwwwwww wggwggwoo rrrrrrggg bbybbyrry boobooboo yyyyyyggo
+//      bbr
+//      www
+//      www
+
+// wgg  rrr  bby  boo
+// wgg  rrr  bby  boo
+// woo  ggg  rry  boo
+
+//      yyy
+//      yyy
+//      ggo
+/**********************/
+/**********************/
+
+//      www
+//      www
+//      www
+
+// ggg  rrr  bbb  ooo
+// ggg  rrr  bbb  ooo
+// ggg  rrr  bbb  ooo
+
+//      yyy
+//      yyy
+//      yyy
+
+//numbering systems to calcuate the m distance. and knowing which tiles goes where!  
+//wwwwwwwww || ggggggggg               ||   rrrrrrrrr              ||   bbbbbbbb    
+//987654321 || 9,6,3,17,14,12,26,23,20 || 3,2,1,12,11,10,20,19,18  || 1,4,7,10,13,15,18,21,24 ||  
+//ooooooooo              ||  yyyyyyggo
+//789,15,16,17,24,25,26  || 20,19,18,23,22,21,26,25,24
+//      www
+//      www
+//      www
+
+// ggg  rrr  bbb  ooo
+// ggg  rrr  bbb  ooo
+// ggg  rrr  bbb  ooo
+
+//      yyy
+//      yyy
+//      yyy  
+//Looks like this
+//      9 8 7
+//      6 5 4
+//      3 2 1
+
+// 9 6 3   3 2 1   1 4 7   7 8 9
+// 171412  121110  101315  151617
+// 262320  201918  182124  242526
+
+//      201918
+//      232221
+//      262524
+//Indexes!
+//      012
+//      345
+//      678
+
+// 91011  181920  272829  363738
+// 121314  212223  303132  394041
+// 151617  242526  333435  424344
+
+//      454647
+//      484950
+//      515253  
+
+//edges values any 12 position and 2 orientation (eg 25 correct )
+//corners any of the 8 position and 3 orientation (WRG )
+
+//WGO, WBO, WGR, WBR upper
+//YGO, YBO, YGR, YBR lower
+//2nd orientation ()
+//GWO, BWO, GWR, BWR upper
+//GYO, BYO, GYO, BYR lower
+//3rd orientation ()
+//OGW, OBW, RGW, RBW upper
+//OGY, OBY, OGY, RBY lower
+
+x,y,z plane
+//      (0.5,0.5,0) (1.5,0.5,0) (0,0.5,0)
+//      (0.5,1.5,0) (1.5,1.5,0) (2.5,1.5,0)
+//      (0.5,2.5,0) (1.5,2.5,0) (2.5,2.5,0)
+
+// (0,0.5,0.5) (0,1.5,0.5) (0,2.5,0.5)  (0.5,3,0.5 ) (1.5,3,0.5) (2.5,3,0.5)   (3,2.5,0.5) (3,1.5,0.5) (3,0.5,0.5)  
+// (0,0.5,1.5) (0,1.5,1.5) (0,2.5,1.5)  (0.5,3,1.5)  (1.5,3,1.5) (2.5,3,1.5)   (3,2.5,1.5) (3,1.5,1.5) (3,0.5,1.5)  
+// (0,0.5,2.5) (0,1.5,2.5) (0,2.5,2.5)  (0.5,3,2.5)  (1.5,3,2.5) (2.5,3,2.5)   (3,2.5,2.5) (3,1.5,2.5) (3,2.5,2.5)  
+    (2.5,0,0.5) (1.5,0,0.5) (0.5,0,0.5)
+    (2.5,0,1.5) (1.5,0,1.5) (0.5,0,1.5)
+    (2.5,0,2.5) (1.5,0,2.5) (0.5,0,2.5)  
+
+
+//      (0.5,2.5,3) (1.5,2.5,3)  (2.5,2.5,3)
+//      (0.5,1.5,3) (1.5,1.5,3)  (2.5,1.5,3)
+//      (0.5,0.5,3) (1.5,0.5,3)  (2.5,0.5,3)
+
+// data looks like this for example
+
+     w9w8w7
+     w60w4
+     w3w2w1
+
+g9g6g3  r3r2r1  b1b4b7  o7o8o9
+g170g12  r120r10  b10*b15  o150o17
+g26g23g20  r20r19r18  b18b21b24  o24o25o26
+
+     y20y19y18
+     y230y21
+     y26y25y24
+
+
+
+     w7g23r1
+     r190o25
+     o26b4r3
+
+o7y19y26  g26w4w3  g3y25b1  w1y23b7
+o150o17  g170o8  w80y21  b210b15
+r20r12o9  w9r2y24  b24r10y18  r18g6g20
+
+     g9w2o24
+     g120b10
+     y20w6b18

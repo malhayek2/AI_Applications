@@ -1,0 +1,41 @@
+Notes about data structor
+facelets are stored as chars as follows !
+char Facelet; // wgrboy*
+
+
+Move Class, that presents
+each face has 2 moves total of 12
+additional 6 moves for total rotation of the cube. x,y,z in each way total of 6.
+data members 
+NUM_FACELETS_TOTAL = 6 sides * 9 faclet
+mTransform( NUM_FACELETS_TOTAL ), mCost( 0.0 ), mName( "Uninitialized" )
+
+map data memeber that is 1-d vector.
+     // M_EQ is named strangely due to cmath's M_E, the constant for the numeric constant e.
+      // Don't know why we can't scope it away, but we can't.
+      // M_IDENTITY is, I, and causes the cube to stay the same.
+      // M_U is, U, the clockwise rotation of the Upper face.
+      // M_UP is, U', the counter-clockwise rotation of the Upper face.
+      // Similar for Lower, Front, Right, Left, and Down faces.
+      //M_U White CW
+      //M_UP white  CCW
+      //M_L orange cc
+      //M_LP orange ccw
+      //M_F green cc
+      // M_FP green ccw
+      // M_R red cc
+      // M_RP red ccw
+      // M_B blue cc
+      // M_BP blue ccw
+      // M_D yellow cc
+      // M_DP yellow ccw
+      // M_EQ, M_EP, M_M, M_MP, M_S, M_SP,?
+      // M_X, M_XP, M_Y, M_YP, M_Z, M_ZP // cube rotation per axis
+      enum BasicMove { M_IDENTITY, M_U, M_UP, M_L, M_LP, M_F, M_FP, M_R, M_RP, M_B, M_BP, M_D, M_DP, 
+                       M_EQ, M_EP, M_M, M_MP, M_S, M_SP, M_X, M_XP, M_Y, M_YP, M_Z, M_ZP };
+
+CUBE CLASS 
+
+std::vector< Facelet > mFacelets( NUM_FACELETS_TOTAL ) array total of 6*9 of wwwwwwwwww...etc default solved cube
+operatoe left < right
+for the first differing facelet, lhs is less than rhs

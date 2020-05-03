@@ -1,0 +1,25 @@
+results 
+config h 2 for edges till white cross 
+config h 1 for conrners
+
+1 2m32.201s 25 0 17601.1 17428.4 3.76
+2 2m27.077s 26 0 16491.5 16335.5 3.59615
+3 3m1.042s 25 0 20819.4 20619.5 3.86
+4 2m25.022s 24 0 17845.3 17657 3.8125
+
+
+having it on config 2 runs for longer than 10 mins...
+
+config h1 
+
+1 2m2.571s 25 0 13871.9 13759.4 3.805
+2 3m0.286s 26 0 18344 18192.9 3.72115
+3 2m5.986s 25 0 14470 14350.9 3.855
+4 1m47.184s 24 0 12899.4 12788.8 3.80208
+
+h1 is better 
+
+h 0 
+
+1 3m31.045s 2 23 371925 366651 1.86
+didnt run for all 

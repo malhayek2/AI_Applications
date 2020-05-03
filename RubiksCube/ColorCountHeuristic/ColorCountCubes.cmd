@@ -1,0 +1,199 @@
+init cube ryywwobbbbgobgwbgwwwwrrrrrrrbgybgybgooyooyooygggyyroww
+run Color.cmd
+init cube wwowwowwogggggggggrrwrrwrrwbbbbbbbbbyooyooyooyyryyryyr
+run Color.cmd
+init cube wwwwwwrwwooybggbggbggrrrrowrrrbbbgggbbbooyyryyyoyyooyo
+run Color.cmd
+init cube owwbwrbwrbrrygwygwyogbrybroyygbbowworrwgoogoorggyygbby
+run Color.cmd
+init cube ywgrwrrwroggoggoyyygyyrybrbbbrbbrwwrwbgwogwogoyooyowbb
+run Color.cmd
+init cube wwgwwgoogooyggyggyggrrrrrrrwwwwbbwbbobbooyooybbbryyryy
+run Color.cmd
+init cube wwwwwwgorggorgyyryyygrrwrgwybbrbbrbbooooobrgobyggyybow
+run Color.cmd
+init cube wwwwwwrbboowggwggwgrrgrrgrryrrybbybbbbboooooooggyyyyyy
+run Color.cmd
+init cube rwwrwwrgoyyywggwggbryoryorggbbgbbwbboogooroorwbrwyybyy
+run Color.cmd
+init cube wwwwwwyyyggbggbggbrrrrrrrrrgbbgbbgbbooooooooowwwyyyyyy
+run Color.cmd
+init cube bbrbwgowrwrywgyboggrygrbwrwbogwbygrryooboowgyryoyygowb
+run Color.cmd
+init cube ggrwwrbbwygrygwygwyybrrrrrrobbybbywwwoowoogoogggyyobbo
+run Color.cmd
+init cube owywwyggrgrrogyoowwrbgrbgyywbbwbbgoorgyrobboborrgywyyw
+run Color.cmd
+init cube rrrbwwbbbwoowgwbgwwrrrryrrwybgbbwgggyybgooyyyggoyyoooo
+run Color.cmd
+init cube ggbwwbwwoyooygwrrbggbrrbryyyrrybbgwwyoooooogwwrrgybgyb
+run Color.cmd
+init cube gbbrwwrwwoggoggwwwyggyrrorrrrybbybbyoowoowoorbyybyybgg
+run Color.cmd
+init cube rrrrwbrwbgggggggrrybyyrrbbboobbbwwoowwwgoogwwyyoyyyooy
+run Color.cmd
+init cube gwwywwyggwggwggggrowworrwrrobbbbbbbbooroorooybyyryyryy
+run Color.cmd
+init cube wwwwwwwwwggggggbbbrrrrrrooobbbbbbgggoooooorrryyyyyyyyy
+run Color.cmd
+init cube bbgwwwbbgwgwwgwwbwrrorrorroybyybyygyrooroorooggbyyyggb
+run Color.cmd
+init cube wwwwwyobrooyggyrrygobbrgbrgwoowbgwrrgbbroobggobryywyyy
+run Color.cmd
+init cube rwwrwwrwwgggggggggyrryrryrrbbbbbbbbboowoowoowoyyoyyoyy
+run Color.cmd
+init cube gyyowwbwwobrogrogrybbwrrwggooobbgrrrbbwooyggybyyryygww
+run Color.cmd
+init cube rrrwwwwwwwoogggggggggrryrryrrybbbbbbbbbwoowooyyoyyoyyo
+run Color.cmd
+init cube rwrrwrbbrwwyggrggrorggrygbbyyybbbwoobobwowggwwoooyyoyy
+run Color.cmd
+init cube oggwwowwoyggygggoorrwrrwggwbbwbbwbbbooboobyyyyyryyrrrr
+run Color.cmd
+init cube gggwwwwwwyggyggyggrrrrrrrrrbbwbbwbbwoooooooooyyyyyybbb
+run Color.cmd
+init cube wwowwowwbooogggyooggwrrwgggrbbrbbrrwybbyoorbbyyyyyyrrg
+run Color.cmd
+init cube rgbwwwrrryryyggyggbbbrryorywoobbybbwwogoogrwgwyowyoobg
+run Color.cmd
+init cube ogggwwgwwbooggooooyrryrryggbbrbbbrrrwwwoorbbgbyywyywyy
+run Color.cmd
+init cube bbowwowwowggwggwggrrbrrwrrwyyybbbbbbgooyooyooyyryyrggr
+run Color.cmd
+init cube rbowwowwoboowgwwgwggbrrbrrbyyyrbbryygoyyobgobggwyyrogr
+run Color.cmd
+init cube gggwwwoggygbygygrryrrgrrwrrwbwwbwbbwooooooooybyybyyrbb
+run Color.cmd
+init cube wwwwwwwwwgggggggggrrrrrrrrrbbbbbbbbboooooooooyyyyyyyyy
+run Color.cmd
+init cube rwrrwrgggggoggyggoyyyrrryyyrbbwbbrbbwowwowwowbbboyooyo
+run Color.cmd
+init cube bbbwwwwwwwggwggwggrrrrrrrrrbbybbybbyoooooooooyyyyyyggg
+run Color.cmd
+init cube ywwrwwrwwoggoggwwgyggyrrorrrrbbbbbbboogoogoorwyybyybyy
+run Color.cmd
+init cube bbgwwgybwwgowgwyowbworryrrrgyyrbywbyroooooobbggbgyyrrg
+run Color.cmd
+init cube rbywwwooowoywggwrrgggwrrbbbwrrbbroorgobgobgybyyyyyyogw
+run Color.cmd
+init cube yyywwwwwworrbggorrbbbrrrbbboorbbgoorgggooogggyyyyyywww
+run Color.cmd
+init cube owrowrowgggggggooywrrwryggywbbrbbrbbwoywoywbbrrbyyoyyo
+run Color.cmd
+init cube yyywwwbbbbgwbgwbgwrrrrrrrrrybgybgybgooooooooogggyyywww
+run Color.cmd
+init cube owrowrowrgggggggggwrywrywrybbbbbbbbbwoywoywoyryoryoryo
+run Color.cmd
+init cube bwwbwwggoooywgywgyrrwrrgrrgbrrwbywbybbyoooooobbryyyggg
+run Color.cmd
+init cube rwwrwwrwwgggggggggyrryrryrrbbbbbbbbboowoowoowoyyoyyoyy
+run Color.cmd
+init cube yggrwoyggogobgybyybyyrrrryrrwrwbgwwgwwgoooobobobbybwrw
+run Color.cmd
+init cube gggwwbobbrrbygwogwyrrbrrbwwyooybwrbwyyyoooggwrggryyboo
+run Color.cmd
+init cube ryywwogggbgybgybgrrrrrrrwwwwbgwbgobgooyooyooybbbyyroww
+run Color.cmd
+init cube gggowrowrrggyggoggwrywrywrybbobbwbbryyyooowwwryoryobbb
+run Color.cmd
+init cube rwwrwwrwwgggggggggyrryrryrrbbbbbbbbboowoowoowoyyoyyoyy
+run Color.cmd
+init cube bbogwbrwbyogygwrrbygorrbroowwbybbgwwyrrooggrwwyygyogyo
+run Color.cmd
+init cube owgowggbbyyrggrooowwwwrrbrrrooybbybbygbyoyyogwggwyrwbr
+run Color.cmd
+init cube wwwwwwrwwgggggyrryyrrbrrbrrbbbbbbbooooooooggwoyygyygyy
+run Color.cmd
+init cube obbowwrwwggyggbwwbboowrrwrrggwybbybbrryooyoogoggryyryy
+run Color.cmd
+init cube ywoywogggggwggyggrooorrrwwwybbwbbobbyoryoryorbbbwyrwyr
+run Color.cmd
+init cube wrrowwbwwogyyggyggorrwrwwbbbbgoboyogyybbogoygrrrryyobw
+run Color.cmd
+init cube ggywwywwbyggyggyggrrorrorrowbbwbbwbbrooroorooyygyywbbw
+run Color.cmd
+init cube yggrwwrwwoggbggbyyyrryrrbrrbbrbbgbbgwwgoooooooyyoyywww
+run Color.cmd
+init cube wwywwybbbggyggwggwooorrrrrrwbbybbybbroorooroogggyywyyw
+run Color.cmd
+init cube oooowwowwgggyggyggwrrwrrwggbbbbbwrrwyyyooboobryyryyrbb
+run Color.cmd
+init cube owwowwyggggrggroorgwwgrrgrrobbwbbwrrooyooybbbwbbyyyyyy
+run Color.cmd
+init cube rrbwwbwwowogggggggrrgrrgrrrwyywbbbbbobbwoowooyyyyyoyyo
+run Color.cmd
+init cube rwwwwwoyywggbgwggwwoorrrrrrbbbybbygyoobooyrrogggyyoybb
+run Color.cmd
+init cube wwbwwoogoooyggyooggrggrgwwwwbrwbrbbrybbyooybbrrryyryyg
+run Color.cmd
+init cube ggowwwwwwyggyggyrrrrrrrrbbgbbwbbyooyboogoogooyywyywbbr
+run Color.cmd
+init cube wwwwwwwwwooogggggggggrrrrrrrrrbbbbbbbbbooooooyyyyyyyyy
+run Color.cmd
+init cube gbbgwrgwrwwwggrwrgobywryyyybbobboboyworwoyggroooyygbrr
+run Color.cmd
+init cube oggowrwwryyoggggrbgryrrywwrbbrbbywwywwbgoogoooobyybybr
+run Color.cmd
+init cube wwgwwgggbooyygyygyrrwrrgrrgroowbwwboybbroowoobbryyybbg
+run Color.cmd
+init cube rwwrwygyybbroggoggwroyroygbbbobbgrrggbyrowrowowwoywbyy
+run Color.cmd
+init cube rrbwwbggbwooggggggyyrrrwrrwyyyrbbrbbobbwowwowyygoyooyo
+run Color.cmd
+init cube rwgrwobwoggrggrggryrwyrwybwbbobbobboyowyowygwgyroyroyb
+run Color.cmd
+init cube wwwrwwgwwogoggogyyyggyrrrggrrrbbbrrbbbboooowwbyybyyooy
+run Color.cmd
+init cube rrrwwwwbbwoogggrwwgyyrrrryyoryybbobbbbbwoowogggggyoyyo
+run Color.cmd
+init cube yyywwywwrooobggywoggbrrbbrrwoowbbbbrbggrooggrwyyryygow
+run Color.cmd
+init cube yrrywwywwggggggbbwooooryrryggybbrbbrbbrworwoogyowyowyb
+run Color.cmd
+init cube wwbwwowwoggggggggwrrwrrwbbrbbrbbrybbyooyooooorrgyyyyyy
+run Color.cmd
+init cube ywrywbgrrrrwwgbwgroggrrygggyobbbryyywobwobbobwwoyyoogo
+run Color.cmd
+init cube wwgwwgobbrrgygwygwwrrbrrbrryooybwybwyggoooooorggyyybbb
+run Color.cmd
+init cube owowwggorgbwbgwbgwobbrrwrrwwobobboyyygyyorgorggbyyryyr
+run Color.cmd
+init cube rrrgwwyowbrorgorggbwrbrroyybggbbbowwyyyyowoowwggoybgyb
+run Color.cmd
+init cube bbywwobboogwwgwwgwrrwrrwrrbbbrbbyyyygyyooooooggryyrggg
+run Color.cmd
+init cube bwrgwrrwbwogwggrrryryrrybbyobbobbobowgowoowgwyygyyogyg
+run Color.cmd
+init cube ggyrwrbbrogrygwwwwyygrrgoggyyoybbywrbwwroogbrboobyobow
+run Color.cmd
+init cube obbwwwwwwwggyggyoorrrrrrbggbbybbyrryoogooboobwyywyyrgg
+run Color.cmd
+init cube gggwwwgwwygyygoygorrrbrrbggbbwbbwwrroooooobbowrryyybyy
+run Color.cmd
+init cube ggowwowbbygoygwygwgwwrrrrrrrwwybbybbbooyooyoogggyyrbbr
+run Color.cmd
+init cube gywbwrbwyroowgwrrowggrrbybboyorboryrgbygoobgwbwwgyogyy
+run Color.cmd
+init cube rwbrwyggyggoggyggyyyorrorrobbwbbwbbrrowrowyowbbwoywoyg
+run Color.cmd
+init cube wwbwwbrwooogggyrryyrgbrgbrwwrrwbbbooybboooggwoyrgyygyy
+run Color.cmd
+init cube rbbwwwrbbwowwgwwgwgrrgrrgrryryybyybyooboobooboggyyyogg
+run Color.cmd
+init cube rryywyywwgoobgbrrbbgorrrwwbgbbgbbrggrwwwooyggoowyyoyyo
+run Color.cmd
+init cube gyywwwgrroryggbogorbbyryygywogrbbrbroowworggwbyboyobww
+run Color.cmd
+init cube wwgwwrwwroooggggggggyrryrrybbrbbrbbrwbbwoowooyyoyyoyyb
+run Color.cmd
+init cube wwrwwroooggbggwrrwyyyrrbrrbgbbybbybbwoowoowggggryyoyyo
+run Color.cmd
+init cube bwwwwgwwgorroggwggbbrrrrrrrwwbbbbbbyooyooyoooyyyyyyggg
+run Color.cmd
+init cube ogrwwwwwwyrryggyoobbbrrrgggoowbbwrrwgobgobgobyyyyyyrbo
+run Color.cmd
+init cube bbbwwwwwwwggwggwggrrrrrrrrrbbybbybbyoooooooooyyyyyyggg
+run Color.cmd
+init cube wwbwwbggrrrywgywgyrrbrrbrrywoowbybbywggoooooobboyyyggg
+run Color.cmd
+

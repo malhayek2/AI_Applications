@@ -1,0 +1,41 @@
+Steps to sloves the cube
+1-Definitions 
+Edges: Pieces with two colors. There are twelve edge pieces.
+Corners: Pieces with three colors. There are eight corners.
+center: colors that dont move
+
+
+2-White cross
+Be sure to solve the sections of the white cross in the following order - blue, orange, green, red
+
+
+3-White corners
+match croners 1x1x1
+
+4-Middle Layer
+which means positioning the ‘edge pieces’ in the correct place.
+ Notice the vertical row of blue(this could be red, orange, green) - THIS IS CRITICAL!
+
+
+
+ 5-TOP FACE YELLOW
+ the whole face is yellow
+ Yellow edge pieces on the top face do NOT need to match on the side pieces…yet!
+ following states
+ If no corner Cubes are yellow on the top face, you must have yellow left corner or left face as shown.
+If one corner Cube is yellow match your top face as shown and do the sequence below.If any two corner Cubes are yellow don’t worry 
+
+about their position. You MUST match the front face with a yellow left corner as shown Do this sequence 1, 2 or 3 times to achieve a complete yellow top face. After each sequence, orient the Rubik’s Cube to REMATCH the top face to the appropriate state and repeat the sequence until all the corners are yellow.
+
+
+/****/Others 
+
+    ****w*w** **g*g**** r***r**** ****b**** ****o**** ****y**** \
+    
+    ****w***w ****g**** **r*r**** b***b**** ****o**** ****y**** \
+    w***w**** g***g**** ****r**** ****b**** **o*o**** ****y**** \
+    **w*w**** ****g**** ****r**** **b*b**** o***o**** ****y**** \
+    ****w**** ****g***g ****r*r** ****b**** ****o**** y***y**** \
+    ****w**** ****g**** ****r***r ****b*b** ****o**** **y*y**** \
+    ****w**** ****g*g** ****r**** ****b**** ****o***o ****y*y** \
+    ****w**** ****g**** ****r**** ****b***b ****o*o** ****y***y \

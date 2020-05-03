@@ -1,0 +1,2 @@
+init cube robrwbgoobbyygwrrwrgygryowggoybboogroyywogwwwbbwyyrgrb
+run StepByStepSearch.cmd

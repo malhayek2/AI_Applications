@@ -1,0 +1,51 @@
+Richard Korf 
+Heurstic 
+
+Median optimal moves are 18, no more than 20 moves!
+Of the 27 possible 111 cubies, 26 are visible,
+with one in the center. Of these, the six cubies in the
+center of a face rotate, but don't move. These six cubies form fixed reference framework, disallowing rotations of the entire cube. Of the remaining 20 movable
+cubies, 8 are on the corners, with three visible faces
+each, and 12 are on the edges, with two visible faces
+
+
+/********* Heurstic best of 3 attemps **********/
+If we consider just the eight corner cubies, the
+position and orientation of the last cubie is determined by the remaining seven
+-- meaning you should only look at 7 1x1x1 cubie
+moves range 0-11
+
+We can improve this heuristic by considering the
+edge cubies as well. moves range 0-10
+edge cubies are b-y, r-y, b-r, b-w, r-w, r-g
+
+the other edge cubies, 
+
+y-g, b-o, y-o, o-w, o-g, w-g
+
+
+/**********************/
+Corner cubies only move among corner positions,
+and edge cubies only move among edge positions
+does that mean we limit our moves?
+. A
+corner cubie in a given position can be oriented in any
+of three ways, and an edge cubie can be oriented two different ways. 
+
+, one for each cubie,
+the contents of which encode the position and orientation of the cubie as one of 24 dierent values, 8  3 for
+the corners, and 12  2 for the edges
+
+the postion and oritnation.. p in any of 8 for cubie and orination any of the 3 possible orinations. 
+divided by 12 ! 
+
+talks about having UU moves. for less nodes generated.
+/*************************/
+compute the minimum number of moves
+required to correctly position and orient it, and sum
+these values over all cubies. Unfortunately, to be admissible, this value has to be divided by eight, since
+every twist moves four corner and four edge cubies
+
+This result can be rounded up. A better heuristic is to
+take the maximum of the sum of the manhattan distances of the corner cubies, and the edge cubies, each
+divided by four
